@@ -30,7 +30,7 @@ alternatives with a reason tag (closest size, smaller pack, larger pack).
 ## Files
 - [`DECK/`](DECK): the presentation (PDF)
 - [`DATA/`](DATA): the cleaned workbook (.xlsx) and CSV versions of its sheets.
-  Start with [`key_findings.csv`](DATA/key_findings.csv), then [`price_comparison.csv`](DATA/price_comparison.csv).
+  Start with [`key_findings.csv`](DATA/key_findings.csv), then [`price_comparison.csv`](DATA/price_comparison.csv). For a more detail reviews check the original workbook (Instamart_Blinkit_Comparison (2) ) by downloading it 
 - [`DESIGN/`](DESIGN): concept mock of the proposed screen (sample products, not real inventory)
 
 ## Method
