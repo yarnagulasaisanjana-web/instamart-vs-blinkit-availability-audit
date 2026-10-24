@@ -1,0 +1,31 @@
+No.,Category,Product,Brand / Specification,Required Quantity,Instamart Price (₹),Blinkit Price (₹),Lowest Product Price (₹),Cheapest App,Highest Product Price (₹),Price Gap (₹),Instamart Available?,Blinkit Available?,Stock Status
+1,"Dairy, eggs & bakery",Milk,Amul Taaza,200 ml,16,17,16,Instamart,17,1,Yes,Yes,In stock on both
+2,"Dairy, eggs & bakery",Curd,Amul Masti,450 g,,33,,,,,No,Yes,Unavailable on Instamart
+3,"Dairy, eggs & bakery",Eggs,Any standard white eggs,Pack of 6,50,56,50,Instamart,56,6,Yes,Yes,In stock on both
+4,"Dairy, eggs & bakery",Bread,fresh choice sandwich bread,400 g,,60,,,,,No,Yes,Unavailable on Instamart
+5,"Dairy, eggs & bakery",Paneer,Amul ,200 g,,105,,,,,No,Yes,Unavailable on Instamart
+6,"Dairy, eggs & bakery",Butter,Amul,100 g,63,63,,,,,No,Yes,Unavailable on Instamart
+7,"Dairy, eggs & bakery",Cheese slices,Amul,Pack of 10,145,115,115,Blinkit,145,30,Yes,Yes,In stock on both
+8,Fruits & vegetables,Tomatoes,Any standard variety,500 g,29,27,27,Blinkit,29,2,Yes,Yes,In stock on both
+9,Fruits & vegetables,Onions,Any standard variety,1 kg,69,69,69,Tie,69,0,Yes,Yes,In stock on both
+10,Fruits & vegetables,Potatoes,Any standard variety,1 kg,47,27,,,,,No,Yes,Unavailable on Instamart
+11,Fruits & vegetables,Bananas,Any standard variety,4 pieces,58,39,,,,,No,Yes,Unavailable on Instamart
+12,Fruits & vegetables,Apples,Any standard variety,4 pieces,,162,,,,,No,Yes,Unavailable on Instamart
+13,Fruits & vegetables,Green chillies,Any standard variety,100 g,12,16,12,Instamart,16,4,Yes,Yes,In stock on both
+14,Fruits & vegetables,Lemons,Any standard variety,Pack of 4,48,38,38,Blinkit,48,10,Yes,Yes,In stock on both
+15,Staples & cooking essentials,Atta,Aashirvaad ,1 kg,66,63,63,Blinkit,66,3,Yes,Yes,In stock on both
+16,Staples & cooking essentials,Rice,India Gate ,1 kg,150,150,150,Tie,150,0,Yes,Yes,In stock on both
+17,Staples & cooking essentials,Sugar,Madhur,1 kg,62,65,,,,,No,No,Unavailable on both
+18,Staples & cooking essentials,Salt,Tata Salt,1 kg,29,29,29,Tie,29,0,Yes,Yes,In stock on both
+19,Staples & cooking essentials,Sunflower oil,Fredom,1 litre,169,173,169,Instamart,173,4,Yes,Yes,In stock on both
+20,Staples & cooking essentials,Toor dal,Tata Sampann ,500 g,113,98,98,Blinkit,113,15,Yes,Yes,In stock on both
+21,Snacks & packaged food,Maggi noodles,Masala,Pack of 2,120,158,120,Instamart,158,38,Yes,Yes,In stock on both
+22,Snacks & packaged food,Potato chips,Lay's Classic Salted,50–55 g,35,20,20,Blinkit,35,15,Yes,Yes,In stock on both
+23,Snacks & packaged food,Biscuits,Parle-G,250 g,30,30,30,Tie,30,0,Yes,Yes,In stock on both
+24,Snacks & packaged food,Chocolate,Cadbury Dairy Milk,40–50 g,52,52,52,Tie,52,0,Yes,Yes,In stock on both
+25,Snacks & packaged food,Instant coffee,Nescafé Classic,45 g,210,210,210,Tie,210,0,Yes,Yes,In stock on both
+26,Snacks & packaged food,Oats, Saffola,500 g,,199,,,,,No,Yes,Unavailable on Instamart
+27,Household & personal care,Dishwash bar,Vim,275 g,,20,,,,,No,Yes,Unavailable on Instamart
+28,Household & personal care,Laundry detergent powder,Surf Excel ,500 g,110,123,110,Instamart,123,13,Yes,Yes,In stock on both
+29,Household & personal care,Bathing soap,Lux,150 g,,158,,,,,No,Yes,Unavailable on Instamart
+30,Household & personal care,Toothpaste,Colgate Strong Teeth,150 g,,99,,,,,No,Yes,Unavailable on Instamart

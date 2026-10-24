@@ -1,0 +1,12 @@
+Metric,Instamart,Blinkit
+Items tested,30,30
+Items in stock,18,29
+Items unavailable (sold out or not listed),12,1
+Availability rate,60%,97%
+Items in stock on both apps,18,18
+Like-for-like basket (INR),1453,1444
+Blinkit minus Instamart (INR),,-9
+Difference as % of Instamart basket,,-0.6%
+Items cheaper on this app,6,6
+Items with identical price (tie),6,6
+Cheaper app on like-for-like basket,,Blinkit
